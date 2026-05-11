@@ -1,4 +1,4 @@
-# Hi, I’m YMsora 👋
+# Hi, I’m YMsora~X 👋
 
 I’m a university student in China, a CTF player, and a web player for **V&N**.  
 I’m also a member of **TeamGisply**, an active bounty hunter, and I regularly participate in **Hack The Box** and various CTF competitions.
