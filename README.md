@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m YMsora 👋
 
-<!--
-**YMs0ra/YMs0ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a university student in China, a CTF player, and a web player for **V&N**.  
+I’m also a member of **TeamGisply**, an active bounty hunter, and I regularly participate in **Hack The Box** and various CTF competitions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web security / CTF / Bug bounty
+- V&N web player
+- TeamGisply member
+- HackerOne Hall of Fame — Matomo
+- Languages I’ve studied: JavaScript, Python, PHP, TypeScript, and more
+- I speak Chinese, Japanese, and English
+
+## Beyond Security
+
+I love visual novels, lo-fi, jazz, anime, indie games, and all kinds of RPGs.  
+I’m also into VR and table tennis.
+
+## My Belief
+
+In the age of AI, I still believe in long-term learning.  
+For my own projects, I insist on handwriting everything from scratch.
+
+I love the process of coding itself.
+
+> I think what connects everything is code — don’t you agree?
+
+## Contact
+
+Email: `heishizixing@gmail.com`
