@@ -27,7 +27,7 @@ I often listen to lo-fi and jazz while coding, reading, or thinking.
 I’m also a VR enthusiast.  
 I like how VR brings together technology, games, interaction, and imagination.
 
-And when I’m away from the screen, I play table tennis — fast, precise, and surprisingly similar to debugging in its own way.
+and i like table tennis yep
 
 ## My Belief
 
@@ -47,7 +47,7 @@ If needed, you can reach me at:
 
 ## Finally
 
-I love security.  
+I love internet security.  
 I love stories.  
 I love games.  
 I love music.  
